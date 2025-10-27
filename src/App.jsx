@@ -10,8 +10,8 @@ export default function App() {
             <p className="text-sm text-slate-400">Aspiring Data Engineer & AI Enthusiast</p>
           </div>
           <div className="flex gap-3 items-center">
-            <a href="https://github.com/Brahminladka" target="_blank" rel="noreferrer" className="text-sm hover:underline">GitHub</a>
-            <a href="https://linkedin.com/in/aman-tiwari-86b618229" target="_blank" rel="noreferrer" className="text-sm hover:underline">LinkedIn</a>
+            <a href="https://github.com/Brahminladka" target="_blank" rel="noreferrer" className="btn px-3 py-2 rounded-md text-sm bg-slate-800 hover:bg-slate-700">GitHub</a>
+            <a href="https://linkedin.com/in/aman-tiwari-86b618229" target="_blank" rel="noreferrer" className="btn px-3 py-2 rounded-md text-sm bg-slate-800 hover:bg-slate-700">LinkedIn</a>
             <a href="mailto:aman12tiwari3@gmail.com" className="btn px-3 py-2 rounded-md text-sm bg-slate-800 hover:bg-slate-700">Email</a>
             <a href="tel:+919699353591" className="btn px-3 py-2 rounded-md text-sm bg-slate-800 hover:bg-slate-700">Contact</a>
           </div>
